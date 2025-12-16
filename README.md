@@ -19,11 +19,16 @@ I am currently improving my skills through hands-on projects.
 - Used Python and Pandas to analyze visa data
 - Created bar charts and pie charts using Matplotlib
 
-### 2. Student Performance Analysis
+### 2. AI-Powered PDF Chat Application
+- Built an AI-powered PDF chat application using Streamlit and LangChain that allows users to upload PDFs and ask questions.
+  Used HuggingFace embeddings with FAISS for document search and an LLM to generate accurate answers from the PDF content.
+
+
+### 3. Student Performance Analysis
 - Analyzed student marks data
 - Calculated averages and visualized results
 
-### 3. AI-powered Image Analytics App built with Google Gemini AI, Streamlit, and Python.
+### 4. AI-powered Image Analytics App built with Google Gemini AI, Streamlit, and Python.
 - Developed an AI-powered image analytics application using Google Gemini AI, Python, and Streamlit to analyze and understand images.
 - Implemented image upload and processing features that allow users to extract insights, descriptions, and objects from images in real time.
 - Integrated Google Gemini AI APIs to perform intelligent image interpretation and generate accurate, AI-driven responses.
